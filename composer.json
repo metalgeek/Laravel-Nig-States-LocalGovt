@@ -1,11 +1,11 @@
 {
-    "name": "bodunde/states-and-local-govt",
+    "name": "metalgeek/states-and-local-govt",
     "description": "Populates your DB with all the states in Nigeria and their local governments. It also creates the models for you",
     "license": "MIT",
     "authors": [
         {
-            "name": "Adebiyi Bodunde",
-            "email": "bodunde.adebiyi@andela.com"
+            "name": "Olamilekan Oladipo",
+            "email": "damilareoladipo15@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -16,6 +16,6 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5"
+        "illuminate/support": ">=5"
     }
 }
